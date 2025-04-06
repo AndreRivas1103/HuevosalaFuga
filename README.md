@@ -1,5 +1,9 @@
-<h1>HuevosalaFuga</h1>
+<h1>Huevos a la Fuga</h1>
 
+<p>Luisa Fernanda Espinal Montoya</p>
+<p>André Rivas Garcia</p>
+<p>Esteban Arias Salazar</p>
+<p>Lukas Lopez Bedoya</p>
 <br>
 <a href="https://docs.google.com/document/d/1oLiOQB68fAsJSDylf-fETLuF6NPAy2wFhD2q6glnEzg/edit?tab=t.b4kzqig7tq9i">Descripción Detallada del Proyecto</a>
 <br>
