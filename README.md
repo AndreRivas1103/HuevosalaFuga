@@ -6,6 +6,7 @@
 <p>Esteban Arias Salazar</p>
 <p>Lukas Lopez Bedoya</p>
 
+<h2>Contenido</h2>
 <a href="https://docs.google.com/document/d/1oLiOQB68fAsJSDylf-fETLuF6NPAy2wFhD2q6glnEzg/edit?tab=t.b4kzqig7tq9i">Descripción Detallada del Proyecto</a>
 <br><br>
 <a href="https://docs.google.com/document/d/1oLiOQB68fAsJSDylf-fETLuF6NPAy2wFhD2q6glnEzg/edit?tab=t.c748cb8nnovs">Requisitos Funcionales</a>
