@@ -1,5 +1,6 @@
 <h1>Huevos a la Fuga</h1>
 
+<h2>Integrantes</h2>
 <p>Luisa Fernanda Espinal Montoya</p>
 <p>André Rivas Garcia</p>
 <p>Esteban Arias Salazar</p>
