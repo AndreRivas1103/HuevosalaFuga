@@ -11,5 +11,5 @@
 <br><br>
 <a href="https://docs.google.com/document/d/1oLiOQB68fAsJSDylf-fETLuF6NPAy2wFhD2q6glnEzg/edit?tab=t.c748cb8nnovs">Requisitos Funcionales</a>
 <br><br>
-<a href="https://app.diagrams.net/#G18_jo267QMvZkNvQ-gUJY6hQWqrFyeOvj#%7B%22pageId%22%3A%220sClyDZBExEfhy3dvQid%22%7D">Diagrama de Clases</a>
+<a href="https://drive.google.com/file/d/18_jo267QMvZkNvQ-gUJY6hQWqrFyeOvj/view?usp=sharing">Diagrama de Clases</a>
 <br><br>
